@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Khalid-R-Salis/stats-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://stats-preview-card-component-main-seven-kappa.vercel.app/)
+- Solution URL:(https://github.com/Khalid-R-Salis/stats-preview-card-component-main)
+- Live Site URL:(https://stats-preview-card-component-main-seven-kappa.vercel.app/)
 
 ## My process
 
